@@ -34,5 +34,6 @@ docling
 langchain-docling
 tabulate
 langchain_chroma
-
-
+pinecone
+langchain_pinecone
+langchain_qdrant
